@@ -14,10 +14,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white)
-![HackTheBox](https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black)
-![TryHackMe Badge](./assets/tryhackme-badge.png)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD.svg?style=for-the-badge&logo=Metasploit&logoColor=white)
+
+![Metasploit](https://img.shields.io/badge/Metasploit-white?style=flat&logo=metasploit&logoColor=white&logoSize=auto&color=%232596CD)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-white?style=flat&logo=kalilinux&logoColor=white&logoSize=auto&color=%23557C94)
+![HackTheBox](https://img.shields.io/badge/Hack_The_Box-white?style=flat&logo=hackthebox&logoColor=white&logoSize=auto&color=%239FEF00)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-white?style=flat&logo=tryhackme&logoColor=white&logoSize=auto&color=%23212C42)
 
 
 ## Find Me
