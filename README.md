@@ -28,5 +28,5 @@
 ---
 
 *"the light at the end of the tunnel might be an oncoming train."*
-![Uploading Freak Cat Meme GIF.gif…]()
+
 <img width="364" height="480" alt="Freak Cat Meme GIF" src="https://github.com/user-attachments/assets/47e4666e-2bd7-466d-bafc-89ceafd55362" />##
